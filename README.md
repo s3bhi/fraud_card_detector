@@ -72,3 +72,7 @@ Saved Files:
 fraud_model.pkl → Trained model
 
 scaler.pkl → Data scaler for preprocessing
+
+### 🤝 Contributors  
+Special thanks to our amazing contributors: @Megatrox1 (Aashishkumar7903), @Prety2910, and @RoshanLourdhu for their support and contributions to this project.
+
