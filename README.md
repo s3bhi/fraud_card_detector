@@ -32,7 +32,7 @@ Flask API integration with React frontend
 
 How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/fraud-detection.git
+https://github.com/s3bhi/fraud_card_detector.git
 cd fraud-detection
 
 2. Backend Setup (Flask)
